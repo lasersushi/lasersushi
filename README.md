@@ -20,14 +20,14 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/lucas-walker-284642391/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/1448781171407196161" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-</div>
+</div> -->
 
 ###
 
