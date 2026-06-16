@@ -70,4 +70,6 @@ I'm a developer passionate about Android apps, FRC robotics, and building things
 
 <br/>
 
+## 🐍 Contribution Activity
+
 <img src="https://raw.githubusercontent.com/lasersushi/lasersushi/output/snake.svg" alt="Snake animation" />
